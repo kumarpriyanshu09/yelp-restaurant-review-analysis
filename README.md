@@ -20,9 +20,8 @@ This analysis is based on a subset of the Yelp dataset and focuses on extracting
 
 ## Files
 
-*   `pythonproject__dataexploration&preproccessing-9.md`: Contains all of the preprocessing analysis
-*   `images/`: Folder containing images and visualizations of trends, distributions, and sentiments.
-*  `nlp_outputs`: (Optional) Contains the various text output of n-grams and topic modelling.
+*   `pythonproject__dataexploration&preproccessing-9.md`: Contains all of the preprocessing analysis and data exploration
+*   `pre processing/`: Folder containing images and visualizations of trends, distributions, and sentiments.
 
 ## Technologies Used
 
@@ -37,8 +36,7 @@ This analysis is based on a subset of the Yelp dataset and focuses on extracting
 1. Download all the files from this repository
 2.  Import the dataset into Python using pandas
 3. Run the relevant script to produce all the analysis
-4. You can explore the EDA images in the `images` folder
-5. You can find more details of the n-grams, and topic modelling in the `nlp_outputs` folder
+4. You can explore the EDA images in the `pre processing` folder
 
 ## README Extras
 
